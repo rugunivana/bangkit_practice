@@ -7,7 +7,7 @@ During this apprenticeship program, Rugun took several courses in Coursera, such
 * Google IT Automation with Python
 
 Note for Bangkit's Class:
-* Regression Quality, Polynomial Regression, Introduction to TensorFlow, Linear Regression with TensorFlow | [ClassNote](https://github.com/rugunivana/bangkit_practice/blob/main/2_Class_6_Tensorflow_.ipynb)|
+* Regression Quality, Polynomial Regression, Introduction to TensorFlow, Linear Regression with TensorFlow [[ClassNote](https://github.com/rugunivana/bangkit_practice/blob/main/2_Class_6_Tensorflow_.ipynb)]
 
 More Info about TensorFlow Developer Certificate: 
 * [Medium: Is TensorFlow Developer Certificate worth it?](https://medium.com/analytics-vidhya/is-the-tensorflow-developer-certificate-worth-it-56f597ceea75)
