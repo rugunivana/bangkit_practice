@@ -8,6 +8,7 @@
 
 **Note for Bangkit's Class:**
 * Data Analysis 
+
     [[ClassNote](https://github.com/rugunivana/bangkit_practice/blob/main/2_Class_6_Tensorflow_.ipynb)]
 
     [[ClassNote](https://github.com/rugunivana/bangkit_practice/blob/main/2_Class_6_Tensorflow_.ipynb)]
