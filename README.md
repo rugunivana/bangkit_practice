@@ -1,11 +1,15 @@
 # Rugun's Note for Bangkit Machine Learning 2021 Apprenticeship Program
 
+**Legends**
+* [COU_0X_Title]: For Coursera Courses
+* [CLA_0X_Title]: For Bangkit Mentored Class
+
 **During this apprenticeship program, Rugun took several courses in Coursera, such as:**
 
-* Google IT Support Professional Certificate
-* Google IT Automation with Python
-* Mathematics for Machine Learning
-* DeepLearning.AI TensorFlow Developer [[Note#1](https://github.com/rugunivana/bangkit_practice/blob/main/1.%20Intro%20to%20TensorFlow%20for%20AI:%20NN%2C%20Computer%20Vision%2C%20CNN%2C%20Using%20Real%20World%20Image.ipynb)]
+* [COU_01] Google IT Support Professional Certificate
+* [COU_02] Google IT Automation with Python
+* [COU_03] Mathematics for Machine Learning
+* [COU_04] DeepLearning.AI TensorFlow Developer [[Note#1](https://github.com/rugunivana/bangkit_practice/blob/main/1.%20Intro%20to%20TensorFlow%20for%20AI:%20NN%2C%20Computer%20Vision%2C%20CNN%2C%20Using%20Real%20World%20Image.ipynb)]
 
 **Note for Bangkit's Class:**
 * Data Analysis 
