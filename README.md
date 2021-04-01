@@ -12,6 +12,8 @@
     [[ClassNote](https://github.com/rugunivana/bangkit_practice/blob/main/2_Class_6_Tensorflow_.ipynb)]
 
     [[Linear Regression with TensorFlow - Kaggle House Price](https://github.com/rugunivana/bangkit_practice/blob/main/2_Class_6_Tensorflow_.ipynb)]
+    
+    [[Movie Reviews: LSTM with Keras](https://github.com/rugunivana/bangkit_practice/blob/main/2_Class_6_Tensorflow_.ipynb)]
 * Data Analysis 
 
 **More Info about TensorFlow Developer Certificate:**
