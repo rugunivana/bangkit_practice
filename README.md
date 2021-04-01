@@ -8,7 +8,9 @@
 
 **Note for Bangkit's Class:**
 * Regression Quality, Polynomial Regression, Introduction to TensorFlow, Linear Regression with TensorFlow 
+
 [[ClassNote](https://github.com/rugunivana/bangkit_practice/blob/main/2_Class_6_Tensorflow_.ipynb)]
+
 [[Linear Regression with TensorFlow - Kaggle House Price](https://github.com/rugunivana/bangkit_practice/blob/main/2_Class_6_Tensorflow_.ipynb)]
 
 **More Info about TensorFlow Developer Certificate:**
