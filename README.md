@@ -1,8 +1,12 @@
 # Rugun's Note for Bangkit Machine Learning 2021 Apprenticeship Program
 
 **Legends**
-* [COU_0X_Title]: For Coursera Courses
-* [CLA_0X_Title]: For Bangkit Mentored Class
+* [COU_0X_TYPE_TITLE]    : For Coursera Courses
+* [CLA_0X_TYPE_TITLE]    : For Bangkit Mentored Class
+
+Type:
+* NT: Class Notes
+* PR: Projects
 
 **During this apprenticeship program, Rugun took several courses in Coursera, such as:**
 
