@@ -12,6 +12,7 @@
     [[ClassNote](https://github.com/rugunivana/bangkit_practice/blob/main/2_Class_6_Tensorflow_.ipynb)]
 
     [[Linear Regression with TensorFlow - Kaggle House Price](https://github.com/rugunivana/bangkit_practice/blob/main/2_Class_6_Tensorflow_.ipynb)]
+* Data Analysis 
 
 **More Info about TensorFlow Developer Certificate:**
 * [Medium: Is TensorFlow Developer Certificate worth it?](https://medium.com/analytics-vidhya/is-the-tensorflow-developer-certificate-worth-it-56f597ceea75)
