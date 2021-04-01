@@ -7,6 +7,7 @@
 Type:
 * NT: Class Notes
 * PR: Projects
+* PR-TF: Projects TensorFlow
 
 **During this apprenticeship program, Rugun took several courses in Coursera, such as:**
 
