@@ -1,0 +1,82 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "2. Class #6 Tensorflow .ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyMJYriYu8nnwdTG4WHKUgcq",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/rugunivana/bangkit_practice/blob/main/2.%20Class%206-2A%20(Regression%20Quality%2C%20Polynomial%20Regression)\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "EBSRw1xVgErW"
+      },
+      "source": [
+        "Lecturer: David Sinjaya\n",
+        "\n",
+        "# **Bangkit Machine Learning Class 6 - 2 (Regression Quality, Polynomial Regression, Introduction to TensorFlow, Linear Regression with TensorFlow)**"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "tWvyoCkXg1Dj"
+      },
+      "source": [
+        "## **1. Regression Quality**\n",
+        "* The most popular measure of regression are Corfficient of Determination *$R^2$*.\n",
+        "* Some measure of regression quality\n",
+        "> $SS_{res}=\\sum$\n",
+        "* Mean Square Error (MSE) \n",
+        "Mean Squared error is the measure of the values that our model predicts vs. what the values actually are. Values of MSE are a little difficult to interpret\n",
+        "> $MSE = \\cfrac{1}{n}\\sum_{n=1}^{n}(y_i-\\hat{y_i})$\n",
+        "* Root Mean Squared Error (RMSE) is easier to interpret than MSE.\n",
+        "* MSE and RMSE are the same (proportional)\n",
+        "* Mean Absolute Error (MAE) \n",
+        "> $MAE = \\cfrac{1}{n}\\sum_{n=1}^{n}(|y_i-\\hat{y_i}|)$\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "buSxaVu8eAQ0"
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "mpPeNjIZkcAI"
+      },
+      "source": [
+        "**bold text**"
+      ]
+    }
+  ]
+}
