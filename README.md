@@ -1,4 +1,4 @@
-# Rugun's Note for Bangkit Machine Learning Apprenticeship Program
+# Rugun's Note for Bangkit Machine Learning 2021 Apprenticeship Program
 
 **During this apprenticeship program, Rugun took several courses in Coursera, such as:**
 * DeepLearning.AI TensorFlow Developer [[Note#1](https://github.com/rugunivana/bangkit_practice/blob/main/1.%20Intro%20to%20TensorFlow%20for%20AI:%20NN%2C%20Computer%20Vision%2C%20CNN%2C%20Using%20Real%20World%20Image.ipynb)]
